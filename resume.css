@@ -1,0 +1,49 @@
+
+.container{
+    width: 80%;
+    height: 1500px;
+    
+}
+h3{
+margin-left: 50%;
+padding: 10px;
+}
+h6{
+    margin-left: 60%;
+    
+    }
+.head{
+    background-color:rgb(137, 182, 182);
+    width: 75%;
+    height: 100px;
+    margin-left: 298px;
+}
+.side{
+width: 25%;
+height: 77%;
+background-color:rgb(46, 130, 132);
+float: left;
+margin-top: -100px;
+}
+
+img{
+    width: 180px;
+    height: 192px;
+    margin-top: 20px;
+    border-radius: 100%;
+    margin-left: 58px;
+}
+.main{
+    background-image: url(./images/bc.jpg);
+    background-size: cover;
+float: left;
+width: 75%;
+height: 70%;
+marg
+}
+hr{
+    color: rgb(149, 26, 87);
+}
+p{
+    text-align: justify;
+}
